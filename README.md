@@ -1,2 +1,3 @@
 # Loan-Analysis-Dashboard
-![Sample Image](https://github.com/razi-haider/Bank-Loan-Analysis-Dashboard/blob/main/Bank-Loan-Analysis-Dashboard.pdf)
+![Report_Page01](https://github.com/razi-haider/Bank-Loan-Analysis-Dashboard/blob/main/Report_Page01.png)
+![Report_Page02](https://github.com/razi-haider/Bank-Loan-Analysis-Dashboard/blob/main/Report_Page02.png)
