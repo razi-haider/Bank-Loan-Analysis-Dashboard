@@ -2,9 +2,6 @@
 
 ## Project by: Razi Haider
 
-## Project by: [Your Name]
-
-
 ### Executive Summary
 This project analyzes bank loan data to identify key insights and trends in loan issuance, customer demographics, loan purpose, and payment status. The primary objective is to enhance and optimize loan strategies, customer targeting, and overall loan management operations for a bank. Key findings include insights into loan distribution by grade and state, average interest rates, loan purposes, and payment statuses.
 
